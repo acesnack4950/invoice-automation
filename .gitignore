@@ -1,0 +1,11 @@
+# 실행 결과 (python main.py 로 언제든 다시 만들 수 있음)
+output/
+
+# 파이썬·에디터
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+# 엑셀을 열어 둘 때 생기는 임시 파일
+~$*.xlsx
